@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Milena! 
 
-<!--
-**aronmilenait/aronmilenait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer who is passionate about Linux and coding. I have experience in:
 
-Here are some ideas to get you started:
+💻 **Front-End Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖌️ **Web and Graphic Design**
+
+:left_speech_bubble: **Marketing Tech**
+
+🖱️ **Low-Code Platforms** 
+
+## Languages
+- **TypeScript**
+- **JavaScript**
+- **HTML/CSS**
+
+## Frameworks
+- **ReactJS**
+- **Tailwind CSS**
+- **Bootstrap**
+
+## Testing
+- **Cypress**
+
+## Currently Learning
+- **NodeJS**
