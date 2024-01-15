@@ -29,9 +29,7 @@ I have experience in:
 - **ReactJS**
 - **Tailwind CSS**
 - **Bootstrap**
+- **NestJS**
 
 ## Testing
 - **Cypress**
-
-## Currently Learning
-- **NodeJS**
