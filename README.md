@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Milena Sol Aron
 =======================================================================================================================================
 
-Full Stack Developer | Marketing Tech | Linux SysAdmin (in progress)
+Full Stack Developer | Marketing Tech | Linux SysAdmin (as a hobbie)
 ------------------
 
 I am passionate about coding and astronomy, and I've been using Linux as my only operating system since 2015, which has given me solid knowledge in it.
