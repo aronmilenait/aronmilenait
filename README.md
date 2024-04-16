@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer | Marketing Tech | Linux SysAdmin (as a hobbie)
 ------------------
 
-I am passionate about coding and astronomy, and I've been using Linux as my only operating system since 2015, which has given me solid knowledge in it.
-
 * 🌍  I'm based in Buenos Aires, Argentina.
 * 🖥️  See my portfolio at [https://milenasaron.vercel.app/](http://milenasaron.vercel.app/)
 * ✉️  You can contact me at [aronmilena.it@gmail.com](mailto:aronmilena.it@gmail.com)
