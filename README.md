@@ -10,9 +10,7 @@ Full Stack Developer | Marketing Tech | Linux SysAdmin (as a hobbie)
 
 I have experience in:
 
-💻 **Front-End Development**
-
-🖌️ **Web and Graphic Design**
+💻 **Full-Stack Development**
 
 :left_speech_bubble: **Marketing Tech**
 
