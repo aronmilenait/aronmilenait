@@ -19,13 +19,21 @@ I have experience in:
 ## Languages
 - **TypeScript**
 - **JavaScript**
-- **HTML/CSS**
+- **Python**
 
 ## Frameworks
 - **ReactJS**
 - **Tailwind CSS**
 - **Bootstrap**
 - **NestJS**
+- **Flask**
+- **Vite**
 
 ## Testing
 - **Cypress**
+- **Jest**
+
+## Low-Code Platforms
+- **Webflow**
+- **LeadPages**
+- **Wordpress**
