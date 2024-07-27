@@ -14,6 +14,8 @@
 
 🌃 Besides coding, I love cooking delicious meals and researching about astrophysics.
 
+📚 I'm pursuing an <b>Associate's Degree</b> in <b>Programming</b> at the <I>Universidad Tecnológica Nacional (UTN)</i>
+
 ## Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
