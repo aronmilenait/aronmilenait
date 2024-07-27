@@ -12,9 +12,9 @@
 
 💻 I am currently working as a <b>Back-End Developer</b> at [Connect Nodes IO](https://connectnodes.io/).
 
-🌃 Besides coding, I love cooking delicious meals and researching about astrophysics.
-
 📚 I'm pursuing an <b>Associate's Degree</b> in <b>Programming</b> at the <I>Universidad Tecnológica Nacional (UTN)</i>
+
+🌃 Besides coding, I love cooking delicious meals and researching astrophysics.
 
 ## Programming Languages
 
