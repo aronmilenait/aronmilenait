@@ -1,47 +1,25 @@
 # Hi, I'm Milena! :wave:
 ## A Full-Stack Developer based in Argentina 🌎
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="A young woman using the computer in a cozy room during the night" style="display:block; margin-left:auto; margin-right:auto;"/>
+<img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM2NjEzOTIsIm5iZiI6MTcyMzY2MTA5MiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE0VDE4NDQ1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0MzRlMmQ3MGU0MTYxMDcwOTlkODFmMjhiNDM3YjQzZjRmNzY4ZjYwZmYzYWM5ODJiYTZjMGFmZTNmN2M4OWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.c__X0ai8EQKJ3jrPTWGStgF1_pM1cTnPK9XiBkdrjmA">
+
+## About Me
+
+💻 I am currently working as a **Web Developer** at [bitbug](https://www.linkedin.com/company/bitbug/).
+
+📚 I'm pursuing an **Associate's Degree** in **Programming** at the *Universidad Tecnológica Nacional* (UTN)
+
+
+## My Websites
+
+**🔗 [Portfolio](https://milenasaron.vercel.app)**  
+*My professional showcase as a Full-Stack Developer, which also serves as an online resume.*
+
+**🔗 [Blog](https://aronmilenait.github.io/)**  
+*My blog website, where I share random thoughts and things related to my experience and career, just for the mere pleasure of writing.*
+
+
 
 ## Contact
 [![LinkedIn Badge](https://img.shields.io/badge/-Milena%20Sol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milenasaron)](https://www.linkedin.com/in/milenasaron)
 [![Gmail Badge](https://img.shields.io/badge/-aronmilena.it@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aronmilena.it@gmail.com)](mailto:aronmilena.it@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-008AFF?style=flat-square&logo=About.me&logoColor=white&link=https://milenasaron.vercel.app)](https://milenasaron.vercel.app/)
-
-## About Me
-
-💻 I am currently working as a <b>Back-End Developer</b> at [Connect Nodes IO](https://connectnodes.io/).
-
-📚 I'm pursuing an <b>Associate's Degree</b> in <b>Programming</b> at the <I>Universidad Tecnológica Nacional (UTN)</i>
-
-🌃 Besides coding, I love cooking delicious meals and researching astrophysics.
-
-## Programming Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-## Frameworks and Libraries
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-## Other Technologies
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
