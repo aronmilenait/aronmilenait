@@ -5,7 +5,7 @@
 
 ## About Me
 
-💻 I am currently working as a **Web Developer** at [bitbug](https://www.linkedin.com/company/bitbug/).
+💻 I am currently working as a **Full-Stack Developer** at [bitbug](https://www.linkedin.com/company/bitbug/).
 
 📚 I'm pursuing an **Associate's Degree** in **Programming** at the *Universidad Tecnológica Nacional* (UTN)
 
