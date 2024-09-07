@@ -1,25 +1,30 @@
-# Hi, I'm Milena! :wave:
-## A Full-Stack Developer based in Argentina 🌎
+<h1 align="center">Hi 👋, I'm Milena!</h1> 
 
-<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/lofi.gif">
+<p align="center"> 💻 Full-Stack Developer at <strong>bitbug</strong> <br> 📚 Student at <strong>Universidad Tecnológica Nacional</strong> </p> 
 
-## About Me
+<h2 align="center">🌠 Tech Stack</h2> 
 
-💻 I am currently working as a **Full-Stack Developer** at [bitbug](https://www.linkedin.com/company/bitbug/).
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
 
-📚 I'm pursuing an **Associate's Degree** in **Programming** at the *Universidad Tecnológica Nacional* (UTN)
+<h2 align="center">📫 Contact Me</h2> 
 
-
-## My Websites
-
-**🔗 [Portfolio](https://milenasaron.vercel.app)**  
-*My professional showcase as a Full-Stack Developer, which also serves as an online resume.*
-
-**🔗 [Blog](https://aronmilenait.github.io/)**  
-*My blog website, where I share random thoughts and things related to my experience and career, just for the mere pleasure of writing.*
-
-
-
-## Contact
-[![LinkedIn Badge](https://img.shields.io/badge/-Milena%20Sol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milenasaron)](https://www.linkedin.com/in/milenasaron)
-[![Gmail Badge](https://img.shields.io/badge/-aronmilena.it@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aronmilena.it@gmail.com)](mailto:aronmilena.it@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Gmail-Send%20me%20an%20email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</p>
