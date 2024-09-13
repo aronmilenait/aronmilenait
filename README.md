@@ -22,6 +22,7 @@ aronmilenait@github
 💻 Full-Stack Developer at @bitbug
 📝 Developer and Founder of @CarreraIT
 📚 Student at Universidad Tecnológica Nacional.
+🌎 Based in Buenos Aires, Argentina.
 🌱 Currently learning AWS and C++.
 🐧 GNU/Linux user since 2015.
 ```
