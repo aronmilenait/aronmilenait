@@ -6,21 +6,22 @@ aronmilenait@github:~$ ./welcome.sh
  _____________________________________
 < Welcome to my GitHub! >
  ------------------------------------- 
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+  /\_/\  
+ ( o.o ) 
+  > ^ <
+ /   \
+(     )
+ (___)
 ```
 
-<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="https://i.pinimg.com/564x/4a/77/58/4a7758b719c2f5bbdc13ccd9c066478c.jpg" alt="Cute forest picture I found at Pinterest." width="320" /> 
 
 ```
 aronmilenait@github
 -------------------------
 💻 Full-Stack Developer at @bitbug
 📝 Developer and Founder of @CarreraIT
-📚 Student at the Universidad Tecnológica Nacional.
+📚 Student at Universidad Tecnológica Nacional.
 🌱 Currently learning AWS and C++.
 🐧 GNU/Linux user since 2015.
 ```
