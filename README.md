@@ -20,10 +20,10 @@ aronmilenait@github:~$ ./welcome.sh
 aronmilenait@github
 -------------------------
 💻 Full-Stack Developer at @bitbug
-📝 Developer and Founder of @CarreraIT
+📝 Founder of @CarreraIT
 📚 Student at Universidad Tecnológica Nacional.
 🌎 Based in Buenos Aires, Argentina.
-🌱 Currently learning AWS and C++.
+🌱 Currently learning AWS Cloud and Software Architecture. 
 🐧 GNU/Linux user since 2015.
 ```
 
