@@ -16,3 +16,6 @@
 🌐 Databases: SQLite, MySQL.
 🖱️ Others: GNU/Linux, Git, GitHub.
 ```
+## Contact me:
+- 📧 **Email**: [aronmilena.it@gmail.com](mailto:aronmilena.it@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/milenasaron](https://linkedin.com/in/milenasaron)
