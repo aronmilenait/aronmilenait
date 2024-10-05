@@ -1,4 +1,4 @@
-## Hi, I'm Milena Sol Aron! 👋
+# Hi, I'm Milena Sol Aron! 👋
 <img align="left" src="https://i.pinimg.com/564x/4a/77/58/4a7758b719c2f5bbdc13ccd9c066478c.jpg" alt="Cute forest picture I found at Pinterest." width="320" />
 
 ```
