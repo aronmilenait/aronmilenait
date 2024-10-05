@@ -10,6 +10,13 @@ aronmilenait@github
 🌱 Currently learning AWS Cloud and Software Architecture. 
 🐧 GNU/Linux user since 2015.
 ```
+```
+👩‍💻 Programming languages: JavaScript, TypeScript, C++.
+🖌️ Front-end Technologies: Next.js, React.js, Tailwind CSS, Vite.
+🔧 Back-end technologies: Node.js, Express.js, Bash, Docker.
+🌐 Databases: SQLite, MySQL.
+🖱️ Others: GNU/Linux, Git, GitHub.
+```
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
