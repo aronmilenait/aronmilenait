@@ -10,7 +10,7 @@
 🐧 GNU/Linux user since 2015.
 ```
 ```
-👩‍💻 Programming languages: JavaScript, TypeScript, C++.
+👩‍💻 Programming languages: JavaScript, TypeScript.
 🖌️ Front-end Technologies: Next.js, React.js, Tailwind CSS, Vite.
 🔧 Back-end technologies: Node.js, Express.js, Bash, Docker.
 🌐 Databases: SQLite, MySQL.
