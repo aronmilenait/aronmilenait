@@ -6,7 +6,7 @@
 📝 Founder of @CarreraIT
 📚 Studying Computer Science at Open Source Society University.
 🌎 Based in Buenos Aires, Argentina.
-🌱 Currently learning AWS Cloud and Software Architecture. 
+🌱 In my free time, I'm learning Software Architecture. 
 🐧 GNU/Linux user since 2015.
 ```
 ```
