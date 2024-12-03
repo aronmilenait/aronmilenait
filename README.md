@@ -3,18 +3,16 @@
 
 ```
 💻 Full-Stack Developer at @bitbug
-📝 Founder of @CarreraIT
 📚 Studying Computer Science at Open Source Society University.
 🌎 Based in Buenos Aires, Argentina.
-🌱 In my free time, I'm learning Software Architecture. 
 🐧 GNU/Linux user since 2015.
 ```
 ```
-👩‍💻 Programming languages: JavaScript, TypeScript.
+👩‍💻 Programming languages: JavaScript, TypeScript, Python.
 🖌️ Front-end Technologies: Next.js, React.js, Tailwind CSS, Vite.
-🔧 Back-end technologies: Node.js, Express.js, Bash, Docker.
+🔧 Back-end technologies: Node.js, Express.js, Nest.js, Bash, Docker.
 🌐 Databases: SQLite, MySQL.
-🖱️ Others: GNU/Linux, Git, GitHub.
+🖱️ Others: GNU/Linux, Git, GitHub, Postman.
 ```
 ## Contact me:
 - 📧 **Email**: [aronmilena.it@gmail.com](mailto:aronmilena.it@gmail.com)
