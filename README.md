@@ -1,19 +1,12 @@
-# Hi, I'm Milena Sol Aron! 👋
-<img align="left" src="https://i.pinimg.com/564x/4a/77/58/4a7758b719c2f5bbdc13ccd9c066478c.jpg" alt="Cute forest picture I found at Pinterest." width="320" />
+# About
+I'm Milena Sol Aron, a self-taught software developer with more than a year and a half of experience. What I like most about my job is being able to provide solutions, solve problems, and make improvements. I also enjoy being in a constant learning process.
 
-```
-💻 Full-Stack Developer at @bitbug
-📚 Studying Computer Science at Open Source Society University.
-🌎 Based in Buenos Aires, Argentina.
-🐧 GNU/Linux user since 2015.
-```
-```
-👩‍💻 Programming languages: JavaScript, TypeScript, Python.
-🖌️ Front-end Technologies: Next.js, React.js, Tailwind CSS, Vite.
-🔧 Back-end technologies: Node.js, Express.js, Nest.js, Bash, Docker.
-🌐 Databases: SQLite, MySQL.
-🖱️ Others: GNU/Linux, Git, GitHub, Postman.
-```
-## Contact me:
-- 📧 **Email**: [aronmilena.it@gmail.com](mailto:aronmilena.it@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/milenasaron](https://linkedin.com/in/milenasaron)
+I have been using GNU/Linux as my only operating system since 2015. Currently, I use the Fedora
+distribution.
+
+# Projects
+### 💻 [CarreraIT](https://www.carrerait.lat/)
+A web platform that I have been developing since September 2024 with the goal of helping other IT workers or people who are interested in the field with orientation guides, free resources, and surveys to receive feedback based on their work, study, and personal life context.
+
+### 🌸 [Personal Website](https://milenasolaron.vercel.app/en)
+A website that serves as a portfolio. Since I'm from Argentina, it's in English and Spanish. Here, I share my resume, projects that I've made, what I'm currently doing regarding my career and more about me as a software developer.
