@@ -10,3 +10,6 @@ A web platform that I have been developing since September 2024 with the goal of
 
 ### 🌸 [Personal Website](https://milenasolaron.vercel.app/en)
 A website that serves as a portfolio. Since I'm from Argentina, it's in English and Spanish. Here, I share my resume, projects that I've made, what I'm currently doing regarding my career and more about me as a software developer.
+
+###  📝 [Notes on Technical Books](https://github.com/aronmilenait/tech-book-notes) (New!)
+A repository where I share my notes and summaries of technical books I read.
