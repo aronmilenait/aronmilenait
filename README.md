@@ -1,8 +1,7 @@
 # About
-I'm Milena Sol Aron, a self-taught software developer with more than a year and a half of experience. What I like most about my job is being able to provide solutions, solve problems, and make improvements. I also enjoy being in a constant learning process.
+Self-taught software developer working in the field since 2023. Although my experience is mostly focused on front-end development, I also enjoy developing at the back-end. What I like most about my job is providing solutions, solving problems, and making improvements. I also enjoy being in a constant learning process.
 
-I have been using GNU/Linux as my only operating system since 2015. Currently, I use the Fedora
-distribution.
+I have been using GNU/Linux as my only operating system since 2015, which led me to pursue a career in Software Development. Currently, I use the Fedora distribution.
 
 # Projects
 ### 💻 [CarreraIT](https://www.carrerait.lat/)
