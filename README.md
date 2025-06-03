@@ -1,5 +1,5 @@
 # About
-Self-taught software developer working in the field since 2023. Although my experience is mostly focused on front-end development, I also enjoy developing at the back-end. What I like most about my job is providing solutions, solving problems, and making improvements. I also enjoy being in a constant learning process.
+Software developer working in the field since 2023. Currently, I'm deepening my knowledge of GNU/Linux and studying DevOps practices, while also pursuing a Bachelor's Degree in Computer Science at the University of the People at my own pace.
 
 I have been using GNU/Linux as my only operating system since 2015, which led me to pursue a career in Software Development. Currently, I use the Fedora distribution.
 
@@ -9,6 +9,3 @@ A web platform that I have been developing since September 2024 with the goal of
 
 ### 🌸 [Personal Website](https://milenasolaron.vercel.app/en)
 A website that serves as a portfolio. Since I'm from Argentina, it's in English and Spanish. Here, I share my resume, projects that I've made, what I'm currently doing regarding my career and more about me as a software developer.
-
-###  📝 [Notes on Technical Books](https://github.com/aronmilenait/tech-book-notes) (New!)
-A repository where I share my notes and summaries of technical books I read.
