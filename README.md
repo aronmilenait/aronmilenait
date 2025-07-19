@@ -1,11 +1,17 @@
-# About
-Software developer working in the field since 2023. Currently, I'm deepening my knowledge of GNU/Linux and studying DevOps practices, while also pursuing a Bachelor's Degree in Computer Science at the University of the People at my own pace.
+## :milky_way: About Me
 
-I have been using GNU/Linux as my only operating system since 2015, which led me to pursue a career in Software Development. Currently, I use the Fedora distribution.
+- 🎓 Studying **Computer Science** at [University of the People](https://www.uopeople.edu/)
+- 🔧 Focusing on **DevOps** and **Site Reliability Engineering (SRE)**, while working as as **Software Developer** at *vWave eCommerce GmbH*
+- 🐧 Daily **GNU/Linux** user since 2015 
 
-# Projects
-### 💻 [CarreraIT](https://www.carrerait.lat/)
-A web platform that I have been developing since September 2024 with the goal of helping other IT workers or people who are interested in the field with orientation guides, free resources, and surveys to receive feedback based on their work, study, and personal life context.
+## 🛠️ Projects
 
-### 🌸 [Personal Website](https://milenasolaron.vercel.app/en)
-A website that serves as a portfolio. Since I'm from Argentina, it's in English and Spanish. Here, I share my resume, projects that I've made, what I'm currently doing regarding my career and more about me as a software developer.
+- 🖥️ [**Homelab**](https://github.com/aronmilenait/homelab) — A glimpse into my personal homelab, where I document real configurations and experiments
+- 📊 [**System Monitor**](https://github.com/milenasaron/system-monitor) — System monitor tool for Linux that sends notifications when CPU and RAM usage is high
+- 🌐 [**CarreraIT**](https://www.carrerait.lat) — Platform for people from Hispanic countries who want to work in tech or who already do
+- 🌸 [**Portfolio**](https://milenasaron.vercel.app/) — Website where I share my resume, projects and a little bit about me
+
+## 📫 Contact Me
+
+- 📧 aronmilena.it@gmail.com  
+- 💼 [linkedin.com/in/milenasaron](https://www.linkedin.com/in/milenasaron)
