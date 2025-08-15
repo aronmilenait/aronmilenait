@@ -1,17 +1,16 @@
-## :milky_way: About Me
+# :milky_way: Hi! I'm Milena
 
 - 🎓 Studying **Computer Science** at [University of the People](https://www.uopeople.edu/)
-- 🔧 Focusing on **DevOps** and **Site Reliability Engineering (SRE)**, while working as as **Software Developer** at *vWave eCommerce GmbH*
-- 🐧 Daily **GNU/Linux** user since 2015 
+- 🔧 Working as as **Full Stack Developer and DevOps Engineer** at *vWave eCommerce GmbH*
+- 🐧 Daily **GNU/Linux** user since 2015. I'm currently using Fedora at work, and Debian for my DevOps and SRE projects at my personal laptop.
 
-## 🛠️ Projects
+## :thought_balloon: A little bit about me
+- :heart: Linux, DevOps and Site Realibility Engineering are my biggest passions, but I also love Software Development.
+- :dizzy: Besides IT, some of my interests and hobbies are aviation, writting and astronomy.
 
-- 🖥️ [**Homelab**](https://github.com/aronmilenait/homelab) — A glimpse into my personal homelab, where I document real configurations and experiments
-- 📊 [**System Monitor**](https://github.com/milenasaron/system-monitor) — System monitor tool for Linux that sends notifications when CPU and RAM usage is high
-- 🌐 [**CarreraIT**](https://www.carrerait.lat) — Platform for people from Hispanic countries who want to work in tech or who already do
-- 🌸 [**Portfolio**](https://milenasaron.vercel.app/) — Website where I share my resume, projects and a little bit about me
+## 🛠️ Relevant Projects
 
-## 📫 Contact Me
-
-- 📧 aronmilena.it@gmail.com  
-- 💼 [linkedin.com/in/milenasaron](https://www.linkedin.com/in/milenasaron)
+- 🌸 [**Portfolio + Tech Blog**](https://milenasaron.vercel.app/)
+- 🖥️ [**Homelab**](https://github.com/aronmilenait/homelab)
+- 📊 [**System Monitor**](https://github.com/milenasaron/system-monitor)
+- 🌐 [**CarreraIT**](https://www.carrerait.lat)
